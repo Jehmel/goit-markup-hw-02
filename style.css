@@ -1,0 +1,12 @@
+:root {
+  --gray: #434455
+  --white: #ffffff
+  --raleway: 'Raleway', sans-serif;
+  --roboto: 'Roboto', sans-serif;
+
+}
+body {
+    font-family: var(--roboto);
+    color: var(--white);
+    background-color:var(--gray);
+}
